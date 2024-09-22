@@ -14,7 +14,6 @@ This repository contains solutions to various coding challenges, implemented in 
    - [Q3: Django Top Customers View](#q3-django-top-customers-view)
    - [Q4: Rate Limiter Implementation](#q4-rate-limiter-implementation)
    - [Q5: Data Aggregation Function](#q5-data-aggregation-function)
-4. [License](#license)
 
 ## Requirements
 
@@ -38,8 +37,8 @@ pandas
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone https://github.com/bphariharan1301/VD-SE-Assignment
+   cd VD-SE-Assignment
 
    ```
 
@@ -73,6 +72,12 @@ pip install -r requirements.txt
 
    ```bash
    python manage.py runserver
+   ```
+
+   For normal python programs run
+
+   ```bash
+   python <python_file_name>.py
    ```
 
 5. **Access the API**:
@@ -172,11 +177,3 @@ pip install -r requirements.txt
 ### Q5: Data Aggregation Function
 
 - **Setup**: Call the aggregation function with a list of dictionaries and a specified key to aggregate data.
-
-```
-
-### Notes:
-- Replace `https://github.com/yourusername/yourrepository.git` with your actual repository URL.
-- You can modify the descriptions in the solutions section as needed for clarity.
-- Ensure that all setup instructions are clear and accurate for users to follow easily.
-```
