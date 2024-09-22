@@ -1,6 +1,4 @@
-Here's an updated `README.md` without the code snippets, focusing on setup instructions for each question:
-
-# Project README
+# Project Instructions
 
 This repository contains solutions to various coding challenges, implemented in Python and Django. Below is a summary of each question and the setup instructions.
 
@@ -14,6 +12,7 @@ This repository contains solutions to various coding challenges, implemented in 
    - [Q3: Django Top Customers View](#q3-django-top-customers-view)
    - [Q4: Rate Limiter Implementation](#q4-rate-limiter-implementation)
    - [Q5: Data Aggregation Function](#q5-data-aggregation-function)
+   - [Q6: Find Duplicate in Array with O(1) Extra Space](#q6-find-duplicate-in-array-with-o1-extra-space)
 
 ## Requirements
 
