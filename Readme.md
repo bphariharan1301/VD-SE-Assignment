@@ -177,3 +177,11 @@ pip install -r requirements.txt
 ### Q5: Data Aggregation Function
 
 - **Setup**: Call the aggregation function with a list of dictionaries and a specified key to aggregate data.
+
+### Q6: Find Duplicate in Array with O(1) Extra Space
+
+- **Setup**: Given an array of n+1 integers where each integer is between 1 and n, find all duplicate numbers. The solution must not use extra space.
+
+**Time Complexity**: O(n)
+
+**Space Complexity**: O(1)
